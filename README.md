@@ -208,10 +208,7 @@ export default defineConfig({
 
 ---
 
-## ☁️ Free Deployment with Cloudflare Tunnel
-
-Get a public HTTPS URL with zero cost using [cloudflared](https://developers.cloudflare.com/cloudflare-one/connections/connect-networks/downloads/):
-
+## Free Deployment in OnRender
 ```bash
 # Expose backend
 uvicorn main:app --host 0.0.0.0 --port 8000
