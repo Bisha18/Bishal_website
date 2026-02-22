@@ -1,4 +1,4 @@
-import { Terminal, Heart } from 'lucide-react'
+import { Terminal } from 'lucide-react'
 
 export default function Footer() {
   return (
