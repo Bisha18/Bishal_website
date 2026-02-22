@@ -13,7 +13,7 @@
 
 *A terminal-aesthetic personal portfolio with an AI-powered resume chatbot*
 
-[Live Demo](#) · [Report Bug](https://github.com/bishalpaul/portfolio/issues) · [Get Your Own Key](https://aistudio.google.com/apikey)
+[Live Demo](https://bishal-website.vercel.app/) · [Report Bug](https://github.com/bishalpaul/portfolio/issues) · [Get Your Own Key](https://aistudio.google.com/apikey)
 
 </div>
 
@@ -215,16 +215,7 @@ Get a public HTTPS URL with zero cost using [cloudflared](https://developers.clo
 ```bash
 # Expose backend
 uvicorn main:app --host 0.0.0.0 --port 8000
-cloudflared tunnel --url http://localhost:8000
-# ↳ https://xxxx.trycloudflare.com
-
-# Update frontend .env
-VITE_BACKEND_URL=https://xxxx.trycloudflare.com
-
-# Build and expose frontend
-npm run build && npm run preview
-cloudflared tunnel --url http://localhost:4173
-# ↳ https://yyyy.trycloudflare.com  ← your live URL
+https://bishal-website.onrender.com/
 ```
 
 ---
