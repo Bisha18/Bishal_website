@@ -222,15 +222,10 @@ https://bishal-website.onrender.com/
 **Bishal Paul**
 
 [![Gmail](https://img.shields.io/badge/d.bishalpaul@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:d.bishalpaul@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-bishalpaul-0077b5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/bishalpaul)
-[![GitHub](https://img.shields.io/badge/GitHub-bishalpaul-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/bishalpaul)
-[![Codeforces](https://img.shields.io/badge/Codeforces-bishalpaul-1f8acb?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/bishalpaul)
-[![LeetCode](https://img.shields.io/badge/LeetCode-bishalpaul-ffa116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/bishalpaul)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-bishalpaul-0077b5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bishal-paul-2897a624b/)
+[![GitHub](https://img.shields.io/badge/GitHub-bishalpaul-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Bisha18)
+[![Codeforces](https://img.shields.io/badge/Codeforces-bishalpaul-1f8acb?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Bishal_1)
+[![LeetCode](https://img.shields.io/badge/LeetCode-bishalpaul-ffa116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/bishal_18_paul/)
 
 ---
 
-<div align="center">
-
-Made with 💚 by Bishal Paul · BIT Sindri · 2026
-
-</div>
